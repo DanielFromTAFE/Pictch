@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.4.2"
+  },
+  "applications": {
+    "Pitch": {
+      "applicationId": "snhvNPt6vIlzFmAl2XMrwfJ74YjeWq8PTUTDf13J",
+      "masterKey": "DmUWRG2wftFv8FwBowll1DMJnMq1XfNEv64JDn43"
+    },
+    "_default": {
+      "link": "Pitch"
+    }
+  }
+}
